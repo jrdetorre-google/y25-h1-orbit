@@ -1,0 +1,7 @@
+{
+  "defaultSchema": "dataform",
+  "assertionSchema": "dataform_assertions",
+  "warehouse": "bigquery",
+  "defaultDatabase": "jrdetorre-477-20250327071648",
+  "defaultLocation": "us"
+}
