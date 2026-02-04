@@ -22,7 +22,7 @@ config {
  
  schema: "dataform_demo",
  tags: ["staging"], /* To organize components of your SQL workflow into collections, you can add custom tags */
- description: "Parse raw data into columns", /*Dataform allows you to add documentation to the table/columns*/
+ description: "Parse raw data into columns xxx", /*Dataform allows you to add documentation to the table/columns*/
   bigquery: {
    partitionBy: 'DATETIME_TRUNC(timestamp, HOUR)'
  },
