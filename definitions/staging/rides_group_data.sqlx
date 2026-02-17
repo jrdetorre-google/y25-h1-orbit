@@ -21,7 +21,7 @@ Aggregated query based on the taxi_parsed_data */
 config {
  type: "view",
  schema: "dataform_demo",
- description: "grouped data by ride id",
+ description: "grouped data by ride id test",
  tags: ["views"]
 }
  
