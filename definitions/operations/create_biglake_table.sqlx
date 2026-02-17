@@ -26,4 +26,4 @@ tags: ["stored procedure"]
 }
  
 /* The double $$ is for escaping in Terraform */
-${CreateBiglake.CreateBiglake("'biglake_payment_type'","'gs://processed-jrdetorre-477-20250327071648-g0qcgds6wg/processed/taxi-data/payment_type_table/*.parquet'")} 
+${CreateBiglake.CreateBiglake("'biglake_payment_type_2'","'gs://processed-jrdetorre-477-20250327071648-g0qcgds6wg/processed/taxi-data/payment_type_table/*.parquet'")} 
